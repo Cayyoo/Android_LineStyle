@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\LineStyle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_back.9.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\LineStyle\\app\\src\\main\\res\\drawable-hdpi\\title_back.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\LineStyle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\LineStyle\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\LineStyle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\LineStyle\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\LineStyle\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_back.9.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\LineStyle\\app\\src\\main\\res\\drawable-hdpi\\title_back.9.png"
+    }
+]
